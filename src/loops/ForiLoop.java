@@ -1,3 +1,5 @@
+package loops;
+
 public class ForiLoop {
     public static void main(String[] args) {
 
